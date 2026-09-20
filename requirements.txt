@@ -1,0 +1,5 @@
+# PS3 Mission Control is designed to run on pure Python standard library.
+# No external pip dependencies are strictly required.
+
+# Optional performance helpers:
+# requests>=2.31.0

@@ -1,0 +1,10 @@
+{
+  "ps3_ip": "<PS3_IP>",
+  "webman_http_port": 80,
+  "webman_ftp_port": 21,
+  "web_cockpit_port": 8080,
+  "backup_directory": "backups",
+  "request_timeout_sec": 4.0,
+  "thermal_warning_threshold_c": 70,
+  "thermal_critical_threshold_c": 76
+}
